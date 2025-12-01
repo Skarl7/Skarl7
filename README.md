@@ -1,6 +1,6 @@
 # Building AI Tools for Real-World Business Problems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com) [![Website](https://img.shields.io/badge/Website-adnexai.com-green)](https://adnexai.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com) [![Website](https://img.shields.io/badge/Website-www.adnexai.co.uk-green)](https://www.adnexai.co.uk)
 
 ## About Me
 
@@ -90,10 +90,25 @@ My approach: build practical tools that real businesses can actually use, keep t
 
 ## Get In Touch
 
-- **AdnexAI**: [adnexai.com](https://adnexai.com)
-- **Lexsk Legal**: [lexsklegal.co.uk](https://lexsklegal.co.uk)
-- **Email**: info@adnexai.com
-- **LinkedIn**: [Connect with me](https://linkedin.com)
+---
+
+## Interested in Working Together?
+
+If you're looking for AI automation solutions or want to discuss how we can help streamline your business processes, I'd be happy to chat.
+
+Fill out this quick enquiry form:
+
+**Your Details:**
+- Name: ______________________
+- Company: ______________________
+- Email: ______________________
+- What are you looking to automate?: ______________________
+
+Or reach out directly at **admin@adnexai.co.uk**
+- **AdnexAI**: [www.adnexai.co.uk](https://www.adnexai.co.uk)
+- **Lexsk Legal**: [lexsklegal.co.uk](https://lexsk.co.uk)
+- **Email**: admin@adnexai.co.uk
+- **LinkedIn**:Only for clients 
 
 ## Current Stats
 
